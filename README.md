@@ -29,7 +29,7 @@ to run the tools they're the same so you'll do a call like thisl
 
 '''
 
-python combine.py -i <inputDir> 
+python combine.py -i yourInputDirectory
   
   
   '''
@@ -42,6 +42,6 @@ python combine.py -i <inputDir>
   
 next, missingValues.py is similar. it just gives you stats on the number of nullls in your dataset. 
 
-python missingValues.py -i <inputFile> 
+python missingValues.py -i yourData.csv
   
   
