@@ -1,0 +1,5 @@
+spacy
+surfboard
+numpy
+pandas
+
