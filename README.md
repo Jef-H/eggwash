@@ -1,5 +1,6 @@
 
 # eggwash
+This started as a data cleaning challenge but then friends wanted to use the tools I wrote so now they're here. 
 
 to clone go to your terminal navigate to wherever you want these tools to live and type 
 
